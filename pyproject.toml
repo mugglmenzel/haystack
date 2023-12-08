@@ -46,6 +46,7 @@ classifiers = [
   "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 dependencies = [
+  "google-cloud-aiplatform",
   "pandas",
   "rank_bm25",
   "tqdm",
